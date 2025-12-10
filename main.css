@@ -76,12 +76,12 @@ html {
   transition: 0.2s linear;
 }
 
-/* Hero css */
+/* hero css */
 .hero {
   min-height: 85vh;
   display: flex;
   align-items: center;
-  background-image: url("../img/header-bg.jpg");
+  background-image: url("header-bg.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -434,3 +434,4 @@ html {
   color: #8e8e8e;
   margin-top: 20px;
 }
+
