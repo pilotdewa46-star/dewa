@@ -81,7 +81,7 @@ html {
   min-height: 85vh;
   display: flex;
   align-items: center;
-  background-image: url("https://raw.githubusercontent.com/pilotdewa46-star/dewa/refs/heads/main/depan-bg.jpg");
+  background-image: url("https://raw.githubusercontent.com/pilotdewa46-star/dewa/main/depan-bg.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -549,4 +549,5 @@ html {
     font-size: 12px;
   }
 }
+
 
